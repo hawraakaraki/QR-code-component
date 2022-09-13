@@ -23,10 +23,10 @@ body {
 }
 .box {
     padding: 15px;
-    width: 400px;
+    width: 300px;
     background-color: var(--White);
     border-radius: 15px;
-    margin: 200px auto;
+    margin: 150px auto;
 }
 .box img {
     max-width: 100%;
