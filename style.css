@@ -19,13 +19,14 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: 50px auto;
+   
 }
 .box {
     padding: 15px;
-    width: 300px;
+    width: 400px;
     background-color: var(--White);
     border-radius: 15px;
+    margin: 200px auto;
 }
 .box img {
     max-width: 100%;
